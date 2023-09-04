@@ -4,5 +4,7 @@ public class App {
         
         System.out.println("hi");
         System.out.println("");
+
+        System.out.println("2");
     }
 }
